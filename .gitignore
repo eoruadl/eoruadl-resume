@@ -1,0 +1,32 @@
+# dependencies
+node_modules
+.pnpm-store
+
+# next.js
+.next/
+out/
+
+# cache
+.npm-cache
+.eslintcache
+
+# env files (important for security)
+.env*.local
+.env
+
+# logs
+*-debug.log*
+*-error.log*
+
+# system files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# coverage
+coverage
+
+docs

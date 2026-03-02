@@ -1,0 +1,10 @@
+github:
+  label: "GitHub"
+  url: "https://github.com/eoruadl"
+blog:
+  label: "Blog"
+  url: "https://velog.io/@eoruadl"
+phone:
+  label: "Phone"
+  value: "010-1234-5678"
+  tel: "01012345678"
